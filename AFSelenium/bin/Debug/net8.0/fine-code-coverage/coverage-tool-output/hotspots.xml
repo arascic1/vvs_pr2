@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotspots>
+  <Hotspot>
+    <Assembly>NUnit3.TestAdapter</Assembly>
+    <Class>NUnit.VisualStudio.TestAdapter.NUnitTestAdapter</Class>
+    <MethodName>CreateTestPackage(...)</MethodName>
+    <ShortName />
+    <Line></Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>46</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>NUnit3.TestAdapter</Assembly>
+    <Class>NUnit.VisualStudio.TestAdapter.NUnit3TestDiscoverer</Class>
+    <MethodName>DiscoverTests(...)</MethodName>
+    <ShortName />
+    <Line></Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>38</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>NUnit3.TestAdapter</Assembly>
+    <Class>NUnit.VisualStudio.TestAdapter.NUnit3TestExecutor</Class>
+    <MethodName>RunAssembly(...)</MethodName>
+    <ShortName />
+    <Line></Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>36</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>NUnit3.TestAdapter</Assembly>
+    <Class>NUnit.VisualStudio.TestAdapter.NUnitEventListener</Class>
+    <MethodName>TestFinished(...)</MethodName>
+    <ShortName />
+    <Line></Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>32</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+</Hotspots>
